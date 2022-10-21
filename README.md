@@ -1,1 +1,1 @@
-Esse é meu primeiro prjeto no GIT
+Esse é meu primeiro projeto usando HTML e CSS e um pouco de Java Scrip. Um site replicado com algumas atelrações em relação ao original. Assim como meu primeiro projeto usando o GIT.
