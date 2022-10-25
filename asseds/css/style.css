@@ -232,6 +232,7 @@ footer{
     color: #FFFFFF;
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 .footer_menu{
     display: flex;
@@ -270,15 +271,21 @@ footer .widget_body{
     margin-right: 5px;
     color: #8a8484;
 }
+footer .widget_body1{
+    display: flex;
+
+}
 footer .news_title{
     margin-top: 10px;
 }
-.footer_copy{
-    border-top: 2px solid #2c2c2c;
-    height: 40px;
-    line-height: 40px;
-    font-size: 12px;
-    color: #5c5c5c;
+.roda{
+    margin: 20px;  
+}
+
+.img_rod{
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
 }
 .menuMobile{
     display: none ;
@@ -321,7 +328,7 @@ footer .news_title{
         padding: 20px;
     }
     .footer_copy{
-        padding: 20px;
+        padding: 10px;
     }
     header .container{
         flex-direction: row;
